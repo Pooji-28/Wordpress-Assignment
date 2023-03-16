@@ -3,3 +3,4 @@
 #Some screenshots are added for this wordpress environment.
 #also added the link for this wordpress site.
 #A persona is created using the wordpress.
+#Link for the local wordpress site: http://localhost:10006/
