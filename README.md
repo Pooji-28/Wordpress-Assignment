@@ -4,3 +4,7 @@
 #also added the link for this wordpress site.
 #A persona is created using the wordpress.
 #Link for the local wordpress site: http://localhost:10006/
+
+
+
+Disclaimer: Few pictures I took from the google. So, I don't use it for commercial purposes.
